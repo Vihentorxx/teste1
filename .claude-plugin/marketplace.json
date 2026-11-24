@@ -1,0 +1,11 @@
+{
+  "name": "teste1-skills",
+  "owner": { "name": "vihentorxx" },
+  "plugins": [
+    {
+      "name": "tiktok-shop",
+      "source": "./tiktok-shop",
+      "description": "TikTok Shop: 10 skills para criar vídeos que vendem (gancho, psicologia, copy, roteiro, shorts, pesquisa, oferta, revisão, vídeo, Remotion)."
+    }
+  ]
+}

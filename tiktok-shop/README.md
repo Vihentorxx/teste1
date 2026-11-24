@@ -1,6 +1,6 @@
 # TikTok shop
 
-Pacote com 10 skills para criar vídeos curtos que vendem no TikTok Shop.
+Pacote com 10 skills + a skill orquestradora `tiktok-shop-agencia` (o método da agência, que usa as outras) para criar vídeos curtos que vendem no TikTok Shop.
 
 | Skill | Para que serve | Origem (repositório público) |
 |---|---|---|

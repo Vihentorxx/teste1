@@ -5,6 +5,13 @@ Produção: 100% IA. Formato: 1080 × 1920, 9:16, 30 fps, H.264 + AAC.
 
 > **Base factual.** A página do produto só abre de IPs do Brasil, e este servidor está nos EUA. Os únicos fatos confirmados vieram do próprio link: **Luatek, 3 em 1, recarregável, bivolt, resistente à água**. Todo o resto está marcado **[CONFIRMAR]** e não vai para produção antes de você confirmar. Lista completa: `facts.md`.
 
+> **Atualização com as fotos do anúncio (24/11, 9:34).** As fotos confirmam o modelo DALING DL-9006 e as 3 funções: barbeador, aparador de barba e aparador de nariz. O que mudou:
+> - O CTA passou a ser "confere o preço de hoje no carrinho", sem citar preço (o valor é de oferta relâmpago e varia).
+> - Entrou o aviso "cores sortidas", porque a cor é enviada aleatoriamente.
+> - Autonomia e tipo de carregador **não entram**: o anúncio se contradiz.
+>
+> Os roteiros atualizados estão nos arquivos `roteiro-*.md` e valem mais do que as tabelas abaixo. A produção do B está em `PRODUCAO-B.md`.
+
 ---
 
 ## 1. Público-alvo

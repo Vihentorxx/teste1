@@ -15,9 +15,9 @@ strategy: problem-agitate-solve
 | 2 | 0:02-0:05 | "Ou uma só, que faz as três." | 1 FAZ AS 3 | mão empurra o bolo de fios e pousa a Luatek no centro; push-in lento | baque grave do produto na madeira |
 | 3 | 0:05-0:10 | "Com essa cabeça, ela faz a barba." | 1 · BARBEAR | macro: cabeça de barbear encaixa; corte para a máquina passando na bochecha | clique de encaixe, zumbido do motor |
 | 4 | 0:10-0:15 | "Troca a cabeça e ela vira aparador, pro contorno." | 2 · APARADOR | close: troca do acessório; aparador desenha a linha do maxilar | clique, motor mais agudo |
-| 5 | 0:15-0:19 | "Troca de novo e ela cuida dos pelos do nariz." | 3 · NARIZ [CONFIRMAR] | perfil discreto: cabeça fina se aproxima do nariz, corte antes do contato | clique |
-| 6 | 0:19-0:24 | "Usa sem fio, e é bivolt: cento e dez ou duzentos e vinte." | SEM FIO · BIVOLT 110/220 | máquina carregando ao lado da tomada; luz de carga acende [CONFIRMAR] | plim de carga |
-| 7 | 0:24-0:28 | "A gaveta agradece. O link tá no carrinho aqui embaixo." | TOQUE NO CARRINHO | gaveta só com a Luatek; mão fecha a gaveta; seta para a sacolinha | gaveta fechando, clack |
+| 5 | 0:15-0:19 | "Troca de novo e ela cuida dos pelos do nariz." | 3 · NARIZ | perfil discreto: cabeça fina se aproxima do nariz, corte antes do contato | clique |
+| 6 | 0:19-0:24 | "Usa sem fio, e é bivolt: cento e dez ou duzentos e vinte." | SEM FIO · BIVOLT 110/220 | máquina em pé na bancada, cabo de carga na base, tomada ao fundo | plim de carga |
+| 7 | 0:24-0:28 | "A gaveta agradece. Confere o preço de hoje no carrinho." | PREÇO DE HOJE NO CARRINHO · cores sortidas | gaveta só com a Luatek; mão fecha a gaveta; seta para a sacolinha | gaveta fechando, clack |
 
 ## Hooks
 
@@ -28,4 +28,4 @@ strategy: problem-agitate-solve
 ## Sources
 
 - 3 em 1, recarregável, bivolt: título do anúncio no TikTok Shop.
-- Função nariz, luz de carga: [CONFIRMAR].
+- Barbeador, aparador e nariz; cores sortidas: fotos do anúncio (facts.md).
